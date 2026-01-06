@@ -1,5 +1,5 @@
 ### Deployed Server: https://platinumrx-assignment.onrender.com
-(There might be slight delays in the initial response because server cold starts when inactive but once a request is made then it'll be quick enough)
+###### (Note: There might be slight delays in the initial response because server cold starts when inactive but once a request is made then it'll be quick enough)
 
 
 #### Endpoints:
